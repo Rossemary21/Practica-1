@@ -1,2 +1,2 @@
 # Practica-1
-Practica uno de sistemas opertivos/ua
+Practica 1 de sistemas opertivos/ua
